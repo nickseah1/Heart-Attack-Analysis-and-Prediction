@@ -1,8 +1,8 @@
 # Heart-Attack-Analysis-and-Prediction
 
-#Introduction
+# Introduction
 
-The purpose of this project is to build a machine learning model to predict a person's change of a heart attack.
+The purpose of this project is to build a machine learning model to predict a person's change of a heart attack. We will try, decision trees, naive bayes, logistic regression, and random forest algorithms and determine which one has the highest accuracy.
 
 
 # Data Description
@@ -35,3 +35,4 @@ The purpose of this project is to build a machine learning model to predict a pe
 
 ## Target
 * output - target variable (0 = less chance of heart attack, 1 = more chance of heart attack)
+
