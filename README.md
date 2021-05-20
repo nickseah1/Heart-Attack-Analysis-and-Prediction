@@ -7,9 +7,7 @@ The purpose of this project is to build a machine learning model to predict a pe
 
 # Data Description
 
-# Column details
-
-## Categorical 
+## Categorical Features
 * sex - Gender of person
 * cp - Chest pain type
 * caa - number of major vessels (0-3)
@@ -23,7 +21,7 @@ The purpose of this project is to build a machine learning model to predict a pe
 * slp - slope
 * thall - thal rate
 
-## Continuous 
+## Continuous Features
 
 * trtbps - Resting blood pressure (mm Hg)
 * chol - cholesterol in mg/dl fetched via BMI sensor
